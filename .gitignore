@@ -19,6 +19,8 @@
 /build/
 
 # Android related
+*.idea
+*.metadata
 **/android/**/gradle-wrapper.jar
 **/android/.gradle
 **/android/captures/
